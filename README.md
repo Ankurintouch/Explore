@@ -1,7 +1,7 @@
-# Explore
-Explore App - Ola API Hackathon
+# Xplore
+Xplore App - Ola API Hackathon
 
-Here is the project concept about Explore
+Here is the project concept about Xplore
 
 Problem Statement: 
 
