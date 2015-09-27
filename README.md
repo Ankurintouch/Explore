@@ -1,5 +1,5 @@
-# Xplore
-Xplore App - Ola API Hackathon
+# Xplore!
+Xplore! App - Ola API Hackathon
 
 Here is the project concept about Xplore
 
